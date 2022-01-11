@@ -1,9 +1,9 @@
 # Bitstamp and Coinbase Arbitrage Opportunities
 
-** In this project I analyzed the arbitrage opportunities that existed between the prices for Bitcoin on the Bitstamp and Coinbase exchanges.  Arbitrage is the simulataneous purchase and sale of the same asset in different markets to make a profit.  I was able to do this through a 3 step process: **
+In this project I analyzed the arbitrage opportunities that existed between the prices for Bitcoin on the Bitstamp and Coinbase exchanges.  Arbitrage is the simulataneous purchase and sale of the same asset in different markets to make a profit.  I was able to do this through a 3 step process: **
 1. Collecting the data 
 2. Preparing the data 
-3. Analyze the data**
+3. Analyze the data
 ---
 # **Part One: Collect the Data**
 ### To collect the data properly, I had to do the following:
